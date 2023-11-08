@@ -21,6 +21,7 @@ This repository hosts a detailed analysis of the Indian startup ecosystem, utili
 -   How much funds do startups generally receive in India?
 -   What are the different types of funding for startups?
 
+
 Data Source
 -----------
 
